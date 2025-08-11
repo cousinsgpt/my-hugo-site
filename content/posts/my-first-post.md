@@ -5,7 +5,7 @@ summary: "An introduction to our new Hugo site using the PaperMod theme."
 tags: ["introduction", "hugo"]
 ---
 
-Welcome to **our first blog post**!
+Welcome to **our first website**!
 
 In this post, we'll share why we chose Hugo and PaperMod for our new site and how you can create new posts easily using Markdown. Here are some points:
 
