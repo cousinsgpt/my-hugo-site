@@ -5,12 +5,13 @@ paginate: 6
 
 theme: "hugo-PaperMod"
 
+params:
   env: production
   title: "My Hugo Site"
   description: "A blog built with Hugo and PaperMod theme"
   author: "Site Author"
   DateFormat: "January 2, 2006"
-  defaultTheme: auto  # possible values: light, dark, auto
+  defaultTheme: auto # possible values: light, dark, auto
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
