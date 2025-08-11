@@ -3,11 +3,8 @@ languageCode: "en-us"
 title: "My Hugo Site"
 paginate: 6
 
-module:
-  imports:
-    - path: github.com/adityatelange/hugo-PaperMod
+theme: "hugo-PaperMod"
 
-params:
   env: production
   title: "My Hugo Site"
   description: "A blog built with Hugo and PaperMod theme"
