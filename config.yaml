@@ -1,7 +1,9 @@
 baseURL: "https://cousinsgpt.github.io/my-hugo-site/"
 languageCode: "en-us"
 title: "My Hugo Site"
-paginate: 6
+pagination:
+  pagerSize: 6
+
 
 theme: "hugo-PaperMod"
 
