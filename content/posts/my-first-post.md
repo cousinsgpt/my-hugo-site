@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "My First Post!"
 date: 2025-08-11
 summary: "An introduction to our new Hugo site using the PaperMod theme."
 tags: ["introduction", "hugo"]
